@@ -14,5 +14,6 @@ header {
 .articles-list {
     display: flex;
     flex-wrap: wrap;
+    height: 100vh;
 }
   
